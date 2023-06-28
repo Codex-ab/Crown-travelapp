@@ -10,15 +10,6 @@ animation , Images and Much Much more.
 
 
 
-## Installation
-
-Install my-project with npm
-
-```bash
-  npm install
-  npm start
-```
-
     
 ## Appendix
 
