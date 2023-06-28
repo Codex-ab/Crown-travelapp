@@ -39,7 +39,7 @@ This Project Only For Education Purpose.
 
 ## Demo
 
-- <a href="https://codex-ab.github.io/Crown-travelapp/" target="_blank">Crown Demo</a>
+- [Crown Demo](https://codex-ab.github.io/Crown-travelapp/)
 
 
 
